@@ -4,7 +4,7 @@ const Navbar = (props) => {
   return (
     <nav
     className='navbar bg-warning'
-    >
+                                >
 <AiFillGithub/> {props.title}
 
     </nav>
