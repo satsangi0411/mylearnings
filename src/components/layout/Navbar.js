@@ -8,7 +8,7 @@ const Navbar = (props) => {
 <AiFillGithub/> {props.title}
 
     </nav>
-  )
+  )                     
 }
 
 export default Navbar
