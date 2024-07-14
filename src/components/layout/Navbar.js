@@ -5,7 +5,7 @@ const Navbar = (props) => {
     <nav
     className='navbar bg-warning'
                                 >
-<AiFillGithub/> {props.title}
+<AiFillGithub/> {props.title}            
 
     </nav>
   )                     
